@@ -1,6 +1,6 @@
 FROM ubuntu:latest
 FROM continuumio/miniconda3
-MAINTAINER Joachim Moeyens <moeyensj@gmail.com>
+MAINTAINER Chris Suberlak <suberlak@uw.edu>
 
 # Set shell to bash
 SHELL ["/bin/bash", "-c"]
