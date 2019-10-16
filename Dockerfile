@@ -1,4 +1,3 @@
-FROM ubuntu:latest
 FROM continuumio/miniconda3
 MAINTAINER Chris Suberlak <suberlak@uw.edu>
 
